@@ -1,4 +1,5 @@
 # 🚀LeetCode Blind 75 Problems in TypeScript
+# Suthinan Musitmani
 
 ## Project Structure
 
